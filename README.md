@@ -1,16 +1,48 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=33&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius+Lopes;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniromao159&show_icons=true&count_private=true&hide_border=true&title_color=DCDCDC&icon_color=DCDCDC&text_color=DCDCDC&bg_color=0d1117" alt="Vinicius Lopes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniromao159&layout=compact&hide_border=true&title_color=DCDCDC&text_color=DCDCDC&bg_color=0d1117" />
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniromao159&bg_color=0d1117&color=DCDCDC&line=FFFFFF&point=DCDCDC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Banner animado ou frase -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Ol%C3%A1%2C+sou+o+Vinicius!;Apaixonado+por+dados%2C+tecnologia+e+games!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
+
+---
+
+### 👋 Sobre mim
+
+- 🎓 Estudando Análise de Dados com foco em SQL, Planilhas, Visualização e Python
+- 🎯 Explorando edição de vídeo, criação de conteúdo e comunicação
+- 🔍 Buscando oportunidades para crescer na área de dados
+
+---
+
+### 🚀 Tecnologias e Ferramentas
+
+<div style="display: flex; flex-wrap: wrap;" align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/viniromao159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=radical" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer"/>
+---
+
+### 📂 Projetos em Destaque
+
+
+---
+
+### 📬 Como falar comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/viniciuslromao/])
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.romao159@gmail.com)
+
+---
+
