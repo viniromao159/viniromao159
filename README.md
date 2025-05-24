@@ -30,7 +30,7 @@
 ### 🐍 Snake com meus commits
 
 <div align="center">
-  <img src="https://github.com/viniciusdev/viniciusdev/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/viniromao159/viniromao159/output/github-contribution-grid-snake.svg" alt="snake gif" width="400" />
 </div>
 
 ---
