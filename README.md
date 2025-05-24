@@ -27,6 +27,14 @@
 
 ---
 
+### 🐍 Snake com meus commits
+
+<div align="center">
+  <img src="https://github.com/viniciusdev/viniciusdev/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -38,7 +46,6 @@
 
 ### 📂 Projetos em Destaque
 
-
 ---
 
 ### 📬 Como falar comigo
@@ -47,4 +54,3 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.romao159@gmail.com)
 
 ---
-
