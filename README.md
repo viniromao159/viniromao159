@@ -1,7 +1,8 @@
 <!-- Banner animado ou frase -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=ffff00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Ol%C3%A1%2C+sou+o+Vinicius!;Apaixonado+por+dados%2C+tecnologia+e+games!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=ffff00&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Ol%C3%A1%2C+sou+o+Vinicius.;Entusiasta+de+dados+e+tecnologia%2C+em+constante+evolu%C3%A7%C3%A3o+profissional." alt="Typing SVG" />
 </div>
+
 
 ---
 
