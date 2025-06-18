@@ -39,6 +39,8 @@
 
 ### 📂 Projetos em Destaque
 
+[![Cyclistic Logo](img/logo.png)]([https://github.com/viniromao159/cyclistic-analyse])
+
 ---
 
 ### 📬 Como falar comigo
