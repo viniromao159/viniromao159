@@ -38,7 +38,9 @@
 
 ### 📂 Projetos em Destaque
 
-[🚲 Cyclistic](https://github.com/viniromao159/cyclistic-analyse)
+<a href="https://github.com/viniromao159/cyclistic-analyse" target="_blank">
+  <img src="https://raw.githubusercontent.com/labwilliam/data_analysis_projects/main/cyclistic_bike_share/scripts/logo.png" width="50" alt="Cyclistic Logo" />
+</a>
 
 ---
 
