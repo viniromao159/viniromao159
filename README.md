@@ -48,7 +48,7 @@
 </a>
 
 <a href="https://github.com/viniromao159/olist" target="_blank">
-  <img src="https://raw.githubusercontent.com/viniromao159/olist/main/img/olist_logo.png" width="50" alt="Olist Logo" />
+  <img src="https://raw.githubusercontent.com/viniromao159/viniromao159/main/img/olist_logo.png" width="50" alt="Olist Logo" />
 </a>
 
 ---
